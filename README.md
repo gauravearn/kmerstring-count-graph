@@ -16,6 +16,12 @@ def kmers(sequence, kmer)
   end
   return seqkmers.each { | iter | puts iter.to_s + "\t" + seqkmers.count(iter).to_s }
 end
+# run like this and it will output the frequency tables.
+kmers("AAGAAATGAGAAGTAATCAGAAAACCACTTAAGG", 31)
+AAGAAATGAGAAGTAATCAGAAAACCACTTA 1
+AGAAATGAGAAGTAATCAGAAAACCACTTAA 1
+GAAATGAGAAGTAATCAGAAAACCACTTAAG 1
+AAATGAGAAGTAATCAGAAAACCACTTAAGG 1
 ```
 Gaurav Sablok \
 Academic Staff Member \

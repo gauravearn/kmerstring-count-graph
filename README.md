@@ -23,7 +23,7 @@ AGAAATGAGAAGTAATCAGAAAACCACTTAA 1
 GAAATGAGAAGTAATCAGAAAACCACTTAAG 1
 AAATGAGAAGTAATCAGAAAACCACTTAAGG 1
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
